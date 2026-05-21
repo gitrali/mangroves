@@ -1,0 +1,13 @@
+::selection { background: #ccc; opacity:1.0; color:#000;}
+
+@font-face {font-family: hack; src: url("/data/hack-regular.woff") format("woff");}
+
+body {
+  background-color: #f6f6f6;
+  color: #202020;
+  font-family: hack, monospace;
+  font-size:14px;
+  padding:0px;
+  line-height:1.25;
+  overflow:hidden;;
+}
