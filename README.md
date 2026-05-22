@@ -31,7 +31,7 @@ and this README
 any other info can be found on the discord server associated with this site/community.
 
 STRUCTURE
-
+```
 /
 |-- data/
 |   |-- landing/
@@ -45,7 +45,7 @@ STRUCTURE
 |-- css.css
 |-- LICENCE
 `-- README # YOU ARE HERE RN!!
-
+```
 thanks to tree.nathanfriend.com for the tree generator!
 
 
