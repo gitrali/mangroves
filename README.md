@@ -1,36 +1,43 @@
-WELCOME TO THE MANGROVES WEBSITE
+# THE MANGROVES WEBSITE
+---
 
-HI! - I'm vis. (she/her)
+hello. i'm vis.
 
-I'm the repository owner for this site, and I keep everything in check.
+i'm the repository owner for 'the Mangroves'es website,<br /> 
+i keep everything in check.<br />
+and currently as of writing this:<br />
+i am the sole author, designer, writer, planner, and janitor for this entire ambitious project.
 
-and currently, as of the making of this:
-I am the sole author, maker, writer, planner for this entire project!
-
-I am so tired!
+i am so tired!
 
 but enough about me, what's this project about?
 
-RAMBLE
+# RAMBLE
+---
 
-This website is made for a community of people, known as "The mangroves"
+this website is made for a community of people, known as "the Mangroves"<br />
 
-The point of this website is varied but for the most part: 
--it serves as a fun (if not personal) project for the denizens of the mangroves,
--I can be utilised as a main 'hub' spot for everything related to the community and all it's ins and outs,
--it's a place to organise media and present it in fun ways, 
--it's a a time capsule/reminder of the history of this place and all it has/had stood through
--It's a breeding ground for creativity and new ideas
-- and finally, my own selfish intent: to provide something of value, within my realm of possibility, to a group of people i care about very dearly and wish to do something nice for.
+the reasons for it existing are plenty, but for the most part:<br /> 
+-it serves as a fun (if not personal) community project for the denizens of the mangroves,<br />
+-the site can be utilised as a main 'hub' of sorts, for everything Mangroves and all it's related media,<br />
+-it's a place to display our media and present it in fun, interesting ways,<br />
+-it's a a time capsule/digital artifactof our history and all that we've been through,<br />
+-this site serves as a breeding ground for creativity and fun new ideas<br />
+-and, my own selfish intent: to provide a thing of value, within my own realm of creation, to a community i care about so very much.<br />
 
-INFO
+# INFO
+---
 
-there is a LICENCE
-and this README 
+currently:<br />
+there is a LICENCE<br />
+and also a README<br /> 
 
-any other info can be found on the discord server associated with this site/community.
+more info on things can be found within various files or otherwise scattered throughout the project's directory,<br />
+more likely than not, most data will be stored on the discord server associated with this site/community.
 
-STRUCTURE
+# STRUCTURE
+---
+
 ```
 /
 |-- data/
@@ -49,65 +56,82 @@ STRUCTURE
 thanks to tree.nathanfriend.com for the tree generator!
 
 
-mkay, so
-for the sake of clarity:
+mkay, so<br />
+for the sake of clarity:<br />
+-web pages, scripts and things that need to accessable QUICKLY<br /> 
+ are going to be located in the main directory (/)<br />
+-all assets are in stored in /data/<br />
+-everything is divided into folders very sparingly, only when fully necessary<br />
+ this is done to optimise loading speeds<br />
+ and make writing code easier.<br />
 
-all web pages, scripts and things that need to accessable QUICKLY are going to be located in the main directory/
+to everyone else working here:<br /> 
+the goal is:<br /> 
+keep the base system clean,<br /> 
+and only add layers on top<br />
 
-all assets are in stored in /data/
+simplicity is key, efficiency is the goal.<br /> 
+something great is the end result when you think ahead and help yourself pre-emptively.<br />
 
-everything is divided into folders very sparingly, only when fully necessary-
+this rigid way of doing thingsdoes NOT hinder creativity, quite the opposite, in fact.<br />
+the fun stuff isn't going to be fun if it doesn't work. if it's not made right from the base then how can you expect everything built on top to be good.<br />
+but listen i have totally been there.<br />
+just remember to save yourself now, so that later you don't have to fix things.<br />
 
-this plays to our benefit as it optimises speeds and ensures compatibility with a wide range of devices old and new.
+idea will always come and go, and implimenting them takes time, lots of it, don't let medial requests taint your end goal, make it functional, then make it really fucking good - the rest will come naturally.
 
-this has added side effect of being VERY future proof and forward thinking
+okay, ugh!<br /> 
+no more poxxy inspirational quotes<br />
+just make sure to get it done right the first time!!<br /> 
+and always remember, you can take a break and come back to it later.<br />
+you can't just let it get worse.<br />
+the horse comes before the saddle<br /> 
+or whatever<br />
+yaknow?<br />
 
-and also this way of structuring makes it SO much easier to work with while writing code
+neighhh.
 
-to anyone else working here: keep this simplicity in mind when working with the projects files. okay?? 
+# SPEC_THANKS
+---
 
-simplicity is key, efficiency is the goal. something great is the end result when you think ahead and help yourself pre-emptively.
+people, places, things we must thank because they're awesome.<br /> 
+that includes you.<br />
 
-the fun stuff isn't going to be fun if it doesn't work for everyone, or is really annoying to work with, trust me I've been there, just save yourself the headache and plan ahead now, you can't predict the future but you sure as hell can make secure shelter so things don't go catastrophic when shit hits the fan.
+thank you to:<br />
 
-idea will always come and go, and implimenting them takes time, lots of it, don't let medial requests taint your end goal, make it functional, then make it great. "the party is on AFTER work, not during lunchtime" 
+-the super duper awesome balls community of mangrovers who all made this possible in the first place - you guys are phenominal, really, thank you so much. <3<br />
 
-OK AY! 
-NO MORE INSPIRATIONAL QUOTES
-im done i swear 
-just don't get too over your head.
-the horse comes before the saddle or whatever yaknow?
-neigh.
+-Computers<br />
 
-SPEC.THANKS
+-Kyle Drake, the guy who made [neocities.org](https://neocities.org/). you are an absolute legend. - thank you for reviving the old way of the web and for providing such an easy way for website creation. i love you.<br />
 
-the beautiful mangrovers who made this possible <3
+-[Linux](https://en.wikipedia.org/wiki/Linux), and unix/operating systems in general. - the internet would not be possible without the backbone of unix system created by weird little computer programmers in the 70s, you guys might have just been the smartest people on the planet, and I'll take any chance i can to glaze ya'll, oh and linus torvalds, that guy is cool also.<br />
 
-the one guy who runs neocities.org you are an absolute gangsta boss playa, thank you for reviving the web and for providing such an easy way for website creation. i love you.
+-the goats over at the [KDE](https://kde.org/) project, and everybody who contributes into making it a reality. - you guyses are the best, your tools are the best, and you save me so many headaches, if yall didn't exist - i would still be using microsoft windows. and nobody wants that.<br />
 
-linux, in general. the internet would not be possible without it, and I'll take any chance i can to glaze it.
+-[Source Foundry](https://sourcefoundry.org/), for being goated in general and for making the best font - [hack](https://sourcefoundry.org/hack/)<br />
 
-the KDE project, more specifically krita and KATE.
-if it weren't for you guys making easy, free, and beautiful versatile tools and apps, i probably would still be usinf microslop windows
+-[Webfishing](https://en.wikipedia.org/wiki/Webfishing) and the person who created it; West - where do i even begin, thus game changed the course of my life. though it's gone now, a shell of it's former self, its impact is permanent, and it's memory has not been left tainted by the turmoil. i have to thank it; it saved me, gave me a place to be myself, and almost by chance sparked "the Mangroves." into existence. this project and the friendships behind it would not exist without this game. thank you for the memories, for being different in a world that makes it tiring, and for everything you gave us. rest in peace.<br />
 
-sourefoundry, for being goated and making my favourite font: https://sourcefoundry.org/hack/
+-anyone/thing i missed<br />
 
-webfishing and the guy who made it, west, the game is dead now, and it has permanently affected your life now. but beinf said, i have to pay respects to the game that ultimately changed my direction in this world and saved my life, and also kinda sorta by chance made 'the mangroves' exist, this project and friend circle would not exist today without this game. thank you. thank you so much for providing a place i could be myself. thank you for the memories. thank you for being different in a world where doing such is a burden. good things don't last forever. RIP.
+thanks again.<br />
 
-credits to anyone/thing i missed that directly/indirectly had a hand in this existing.
+# NOTES&REMEMBORIES
+---
 
-NOTES&REMEMBORIES
+keep the site's internels simple, it can look flashy on the outside, but it need to be AS EFFICIENT AS POSSIBLE under the hood<br />
 
-keep the site's internels simple, it can look flashy on the outside, but it need to be AS EFFICIENT AS POSSIBLE under the hood
+less is more, you can always add more, but make the simple stuff work, and make it work WELL before you get any big ideas<br />
 
-less is more, you can always add more, but make the simple stuff work, and make it work WELL before you get any big ideas
+don't get burned out, this is a website for the people, not a people for the website. if you feel over whelmed, do something fun and retrace your steps to pick up where you left off.<br />
 
-don't get burned out, this is a website for the people, not a people for the website. if you feel over whelmed, do something fun and retrace your steps to pick up where you left off.
+no external anything, if it's not hosted on the website it's not allowed, no embeded plugins or google style tables, that shit is known to break and in general, we don't like immigrants.<br />
 
-no external anything, if it's not hosted on the website it's not allowed, no embeded plugins or google style tables, that shit is known to break and in general, we don't like immigrants.
+yo like, have fun yo.<br />
 
-END 
-
+# bye
+---
 mkay bye!
 
 
